@@ -12,3 +12,13 @@
 3. Buy Gifts - Birthday, Valentines, Anniversary, Combo Packs, Flower Bouquets, Add to Cart, Modify Cart, View Orders
 4. Send Greetings - Occasion, Greetings, Email Service
 5. Plan Event - Date, Location, Event Name, Advance Booking
+
+<a href="https://docs.google.com/presentation/d/1g0X75lCR7cpqL6MZ7sn8gndC27UEOXNOfN63J5f53Qg/edit?usp=sharing" target="_blank"><b>Presentation 1</b></a>
+<br>
+<a href="https://docs.google.com/presentation/d/1MMn_dNR5Hy6f1sy0gXfqBroRR6kTtVSgiciN3DJh04U/edit?usp=sharing" target="_blank"><b>Presentation 2</b></a>
+<br>
+<a href="https://docs.google.com/presentation/d/1bdwGvBumnz47SZH-chWaY1geK-_omnB0/edit?usp=sharing&ouid=109616356529090761821&rtpof=true&sd=true" target="_blank"><b>Team Software Process PPT</b></a>
+<br>
+<a href="./Compiled Files/PDV Report.pdf" target="_blank"><b>Project Report</b></a>
+
+   *&copy; 2022 GVP, Free to use*
